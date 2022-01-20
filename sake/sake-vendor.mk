@@ -713,6 +713,7 @@ PRODUCT_COPY_FILES += \
     vendor/asus/sake/proprietary/vendor/firmware/slpi.b23:$(TARGET_COPY_OUT_VENDOR)/firmware/slpi.b23 \
     vendor/asus/sake/proprietary/vendor/firmware/slpi.b24:$(TARGET_COPY_OUT_VENDOR)/firmware/slpi.b24 \
     vendor/asus/sake/proprietary/vendor/firmware/slpi.mdt:$(TARGET_COPY_OUT_VENDOR)/firmware/slpi.mdt \
+    vendor/asus/sake/proprietary/vendor/firmware/vpu20_4v.b00:$(TARGET_COPY_OUT_VENDOR)/firmware/vpu20_4v.b00 \
     vendor/asus/sake/proprietary/vendor/firmware/vpu20_4v.b01:$(TARGET_COPY_OUT_VENDOR)/firmware/vpu20_4v.b01 \
     vendor/asus/sake/proprietary/vendor/firmware/vpu20_4v.b02:$(TARGET_COPY_OUT_VENDOR)/firmware/vpu20_4v.b02 \
     vendor/asus/sake/proprietary/vendor/firmware/vpu20_4v.b03:$(TARGET_COPY_OUT_VENDOR)/firmware/vpu20_4v.b03 \
